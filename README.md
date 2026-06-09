@@ -17,3 +17,6 @@ Retailers face cart abandonment, fraud risks, inventory volatility, and complian
 - Reduced fraud incidents
 - Resilient supply chains
 - Improved customer trust
+
+## Project Artifacts
+Full Report (PDF): https://github.com/krithikaamadhumitha/CommerceIndustry/blob/main/Commerce%20Industry.pdf
